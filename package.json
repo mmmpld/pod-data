@@ -1,11 +1,12 @@
 {
-  "name": "d2-data",
+  "name": "pod-data",
   "version": "1.0.0",
-  "description": "",
-  "main": "compile.js",
+  "description": "Path of Diablo data in json format",
+  "type": "module",
+  "main": "index.js",
   "scripts": {
-    "run": "node compile.js"
+    "compile": "node compile.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "mmmpld",
+  "license": "MIT"
 }
