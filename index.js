@@ -1,14 +1,14 @@
-import aggregate from './json/aggregate.json'
-import localStringsEn from './json/LocaleStringsEn.json'
-import monstats from './json/monstats.json'
-import superUniques from './json/SuperUniques.json'
-import weapons from './json/weapons.json'
+import aggregateJson from './json/aggregate.json'
+import localStringsEnJson from './json/LocaleStringsEn.json'
+import monstatsJson from './json/monstats.json'
+import superUniquesJson from './json/SuperUniques.json'
+import weaponsJson from './json/weapons.json'
 
-export const localStringsEn = localStringsEn
-export const monstats = monstats
-export const superUniques = superUniques
-export const weapons = weapons
+export const localStringsEn = localStringsEnJson
+export const monstats = monstatsJson
+export const superUniques = superUniquesJson
+export const weapons = weaponsJson
 
 export default {
-    aggregate
+    aggregateJson
 }
