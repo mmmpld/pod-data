@@ -3,7 +3,7 @@
 	<head>
 		<title>Diablo 2 Elemental Effort Visualizer</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
 		<link rel="stylesheet" href="effort.css">
 	</head>
 	<body>
@@ -25,6 +25,10 @@
 					<div class="expand-label">
 						<label>Optional Areas</label>
 						<input type="checkbox" v-model="optionalAreas" @change="updateGraphs">
+					</div>
+					<div class="expand-label">
+						<label>Count Immunes</label>
+						<input type="checkbox" v-model="countImmunes" @change="updateGraphs">
 					</div>
 				</div>
 				<div class="vertically-spaced">

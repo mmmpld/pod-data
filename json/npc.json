@@ -1,30 +1,4 @@
 {
- "gheed": {
-  "npc": "gheed",
-  "buy mult": 512,
-  "sell mult": 1088,
-  "rep mult": 128,
-  "questflag A": 4,
-  "questbuymult A": 1024,
-  "questsellmult A": 922,
-  "questrepmult A": 1024,
-  "max buy": 5000,
-  "max buy (N)": 30000,
-  "max buy (H)": 35000
- },
- "charsi": {
-  "npc": "charsi",
-  "buy mult": 512,
-  "sell mult": 960,
-  "rep mult": 128,
-  "questflag A": 4,
-  "questbuymult A": 1024,
-  "questsellmult A": 922,
-  "questrepmult A": 1024,
-  "max buy": 5000,
-  "max buy (N)": 30000,
-  "max buy (H)": 35000
- },
  "akara": {
   "npc": "akara",
   "buy mult": 512,
@@ -36,72 +10,8 @@
   "questrepmult A": 1024,
   "max buy": 5000,
   "max buy (N)": 30000,
-  "max buy (H)": 35000
- },
- "lysander": {
-  "npc": "lysander",
-  "buy mult": 512,
-  "sell mult": 1024,
-  "rep mult": 128,
-  "questflag A": 9,
-  "questbuymult A": 1024,
-  "questsellmult A": 922,
-  "questrepmult A": 1024,
-  "max buy": 10000,
-  "max buy (N)": 30000,
-  "max buy (H)": 35000
- },
- "drognan": {
-  "npc": "drognan",
-  "buy mult": 512,
-  "sell mult": 1024,
-  "rep mult": 128,
-  "questflag A": 9,
-  "questbuymult A": 1024,
-  "questsellmult A": 922,
-  "questrepmult A": 1024,
-  "max buy": 10000,
-  "max buy (N)": 30000,
-  "max buy (H)": 35000
- },
- "elzix": {
-  "npc": "elzix",
-  "buy mult": 512,
-  "sell mult": 1024,
-  "rep mult": 128,
-  "questflag A": 9,
-  "questbuymult A": 1024,
-  "questsellmult A": 922,
-  "questrepmult A": 1024,
-  "max buy": 10000,
-  "max buy (N)": 30000,
-  "max buy (H)": 35000
- },
- "fara": {
-  "npc": "fara",
-  "buy mult": 512,
-  "sell mult": 1024,
-  "rep mult": 128,
-  "questflag A": 9,
-  "questbuymult A": 1024,
-  "questsellmult A": 922,
-  "questrepmult A": 1024,
-  "max buy": 10000,
-  "max buy (N)": 30000,
-  "max buy (H)": 35000
- },
- "hratli": {
-  "npc": "hratli",
-  "buy mult": 512,
-  "sell mult": 1024,
-  "rep mult": 128,
-  "questflag A": 17,
-  "questbuymult A": 1024,
-  "questsellmult A": 922,
-  "questrepmult A": 1024,
-  "max buy": 15000,
-  "max buy (N)": 30000,
-  "max buy (H)": 35000
+  "max buy (H)": 35000,
+  "lineNumber": 2
  },
  "alkor": {
   "npc": "alkor",
@@ -114,20 +24,8 @@
   "questrepmult A": 1024,
   "max buy": 15000,
   "max buy (N)": 30000,
-  "max buy (H)": 35000
- },
- "ormus": {
-  "npc": "ormus",
-  "buy mult": 512,
-  "sell mult": 1024,
-  "rep mult": 128,
-  "questflag A": 17,
-  "questbuymult A": 1024,
-  "questsellmult A": 922,
-  "questrepmult A": 1024,
-  "max buy": 15000,
-  "max buy (N)": 30000,
-  "max buy (H)": 35000
+  "max buy (H)": 35000,
+  "lineNumber": 8
  },
  "asheara": {
   "npc": "asheara",
@@ -140,50 +38,22 @@
   "questrepmult A": 1024,
   "max buy": 15000,
   "max buy (N)": 30000,
-  "max buy (H)": 35000
+  "max buy (H)": 35000,
+  "lineNumber": 10
  },
- "jamella": {
-  "npc": "jamella",
+ "charsi": {
+  "npc": "charsi",
   "buy mult": 512,
-  "sell mult": 1024,
+  "sell mult": 960,
   "rep mult": 128,
-  "questflag A": 41,
+  "questflag A": 4,
   "questbuymult A": 1024,
   "questsellmult A": 922,
   "questrepmult A": 1024,
-  "max buy": 20000,
+  "max buy": 5000,
   "max buy (N)": 30000,
-  "max buy (H)": 35000
- },
- "halbu": {
-  "npc": "halbu",
-  "buy mult": 512,
-  "sell mult": 1024,
-  "rep mult": 128,
-  "questflag A": 41,
-  "questbuymult A": 1024,
-  "questsellmult A": 922,
-  "questrepmult A": 1024,
-  "max buy": 20000,
-  "max buy (N)": 30000,
-  "max buy (H)": 35000
- },
- "malah": {
-  "npc": "malah",
-  "buy mult": 512,
-  "sell mult": 2048,
-  "rep mult": 128,
-  "questflag A": 41,
-  "questbuymult A": 1024,
-  "questsellmult A": 922,
-  "questrepmult A": 1024,
-  "questflag B": 35,
-  "questbuymult B": 1024,
-  "questsellmult B": 512,
-  "questrepmult B": 1024,
-  "max buy": 25000,
-  "max buy (N)": 30000,
-  "max buy (H)": 35000
+  "max buy (H)": 35000,
+  "lineNumber": 1
  },
  "drehya": {
   "npc": "drehya",
@@ -200,7 +70,106 @@
   "questrepmult B": 1024,
   "max buy": 25000,
   "max buy (N)": 30000,
-  "max buy (H)": 35000
+  "max buy (H)": 35000,
+  "lineNumber": 14
+ },
+ "drognan": {
+  "npc": "drognan",
+  "buy mult": 512,
+  "sell mult": 1024,
+  "rep mult": 128,
+  "questflag A": 9,
+  "questbuymult A": 1024,
+  "questsellmult A": 922,
+  "questrepmult A": 1024,
+  "max buy": 10000,
+  "max buy (N)": 30000,
+  "max buy (H)": 35000,
+  "lineNumber": 4
+ },
+ "elzix": {
+  "npc": "elzix",
+  "buy mult": 512,
+  "sell mult": 1024,
+  "rep mult": 128,
+  "questflag A": 9,
+  "questbuymult A": 1024,
+  "questsellmult A": 922,
+  "questrepmult A": 1024,
+  "max buy": 10000,
+  "max buy (N)": 30000,
+  "max buy (H)": 35000,
+  "lineNumber": 5
+ },
+ "fara": {
+  "npc": "fara",
+  "buy mult": 512,
+  "sell mult": 1024,
+  "rep mult": 128,
+  "questflag A": 9,
+  "questbuymult A": 1024,
+  "questsellmult A": 922,
+  "questrepmult A": 1024,
+  "max buy": 10000,
+  "max buy (N)": 30000,
+  "max buy (H)": 35000,
+  "lineNumber": 6
+ },
+ "gheed": {
+  "npc": "gheed",
+  "buy mult": 512,
+  "sell mult": 1088,
+  "rep mult": 128,
+  "questflag A": 4,
+  "questbuymult A": 1024,
+  "questsellmult A": 922,
+  "questrepmult A": 1024,
+  "max buy": 5000,
+  "max buy (N)": 30000,
+  "max buy (H)": 35000,
+  "lineNumber": 0
+ },
+ "halbu": {
+  "npc": "halbu",
+  "buy mult": 512,
+  "sell mult": 1024,
+  "rep mult": 128,
+  "questflag A": 41,
+  "questbuymult A": 1024,
+  "questsellmult A": 922,
+  "questrepmult A": 1024,
+  "max buy": 20000,
+  "max buy (N)": 30000,
+  "max buy (H)": 35000,
+  "lineNumber": 12
+ },
+ "hratli": {
+  "npc": "hratli",
+  "buy mult": 512,
+  "sell mult": 1024,
+  "rep mult": 128,
+  "questflag A": 17,
+  "questbuymult A": 1024,
+  "questsellmult A": 922,
+  "questrepmult A": 1024,
+  "max buy": 15000,
+  "max buy (N)": 30000,
+  "max buy (H)": 35000,
+  "lineNumber": 7
+ },
+ "jamella": {
+  "npc": "jamella",
+  "buy mult": 512,
+  "sell mult": 1024,
+  "rep mult": 128,
+  "questflag A": 41,
+  "questbuymult A": 1024,
+  "questsellmult A": 922,
+  "questrepmult A": 1024,
+  "max buy": 20000,
+  "max buy (N)": 30000,
+  "max buy (H)": 35000,
+  "lineNumber": 11
  },
  "larzuk": {
   "npc": "larzuk",
@@ -217,7 +186,40 @@
   "questrepmult B": 1024,
   "max buy": 25000,
   "max buy (N)": 30000,
-  "max buy (H)": 35000
+  "max buy (H)": 35000,
+  "lineNumber": 15
+ },
+ "lysander": {
+  "npc": "lysander",
+  "buy mult": 512,
+  "sell mult": 1024,
+  "rep mult": 128,
+  "questflag A": 9,
+  "questbuymult A": 1024,
+  "questsellmult A": 922,
+  "questrepmult A": 1024,
+  "max buy": 10000,
+  "max buy (N)": 30000,
+  "max buy (H)": 35000,
+  "lineNumber": 3
+ },
+ "malah": {
+  "npc": "malah",
+  "buy mult": 512,
+  "sell mult": 2048,
+  "rep mult": 128,
+  "questflag A": 41,
+  "questbuymult A": 1024,
+  "questsellmult A": 922,
+  "questrepmult A": 1024,
+  "questflag B": 35,
+  "questbuymult B": 1024,
+  "questsellmult B": 512,
+  "questrepmult B": 1024,
+  "max buy": 25000,
+  "max buy (N)": 30000,
+  "max buy (H)": 35000,
+  "lineNumber": 13
  },
  "nihlathak": {
   "npc": "nihlathak",
@@ -234,6 +236,21 @@
   "questrepmult B": 1024,
   "max buy": 25000,
   "max buy (N)": 30000,
-  "max buy (H)": 35000
+  "max buy (H)": 35000,
+  "lineNumber": 16
+ },
+ "ormus": {
+  "npc": "ormus",
+  "buy mult": 512,
+  "sell mult": 1024,
+  "rep mult": 128,
+  "questflag A": 17,
+  "questbuymult A": 1024,
+  "questsellmult A": 922,
+  "questrepmult A": 1024,
+  "max buy": 15000,
+  "max buy (N)": 30000,
+  "max buy (H)": 35000,
+  "lineNumber": 9
  }
 }

@@ -14,7 +14,9 @@
   "Utrans(H)": 11,
   "TC": "Act 1 Super A",
   "TC(N)": "Act 1 (N) Super A",
-  "TC(H)": "Act 1 (H) Super A"
+  "TC(H)": "Act 1 (H) Super A",
+  "lineNumber": 0,
+  "areaId": 3
  },
  "1": {
   "Superunique": "Bonebreak",
@@ -31,7 +33,9 @@
   "Utrans(H)": 5,
   "TC": "Act 1 Super A",
   "TC(N)": "Act 1 (N) Super A",
-  "TC(H)": "Act 1 (H) Super A"
+  "TC(H)": "Act 1 (H) Super A",
+  "lineNumber": 1,
+  "areaId": 18
  },
  "2": {
   "Superunique": "Coldcrow",
@@ -47,7 +51,9 @@
   "Utrans(H)": 18,
   "TC": "Act 1 Super A",
   "TC(N)": "Act 1 (N) Super A",
-  "TC(H)": "Act 1 (H) Super A"
+  "TC(H)": "Act 1 (H) Super A",
+  "lineNumber": 2,
+  "areaId": 9
  },
  "3": {
   "Superunique": "Rakanishu",
@@ -64,7 +70,9 @@
   "Utrans(H)": 29,
   "TC": "Act 1 Super B",
   "TC(N)": "Act 1 (N) Super B",
-  "TC(H)": "Act 1 (H) Super B"
+  "TC(H)": "Act 1 (H) Super B",
+  "lineNumber": 3,
+  "areaId": 4
  },
  "4": {
   "Superunique": "Treehead WoodFist",
@@ -82,7 +90,9 @@
   "Utrans(H)": 4,
   "TC": "Act 1 Super B",
   "TC(N)": "Act 1 (N) Super B",
-  "TC(H)": "Act 1 (H) Super B"
+  "TC(H)": "Act 1 (H) Super B",
+  "lineNumber": 4,
+  "areaId": 5
  },
  "5": {
   "Superunique": "Griswold",
@@ -97,7 +107,9 @@
   "Utrans(H)": 17,
   "TC": "Griswold",
   "TC(N)": "Griswold (N)",
-  "TC(H)": "Griswold (H)"
+  "TC(H)": "Griswold (H)",
+  "lineNumber": 5,
+  "areaId": 38
  },
  "6": {
   "Superunique": "The Countess",
@@ -114,7 +126,9 @@
   "Utrans(H)": 16,
   "TC": "Countess",
   "TC(N)": "Countess (N)",
-  "TC(H)": "Countess (H)"
+  "TC(H)": "Countess (H)",
+  "lineNumber": 6,
+  "areaId": 25
  },
  "7": {
   "Superunique": "Pitspawn Fouldog",
@@ -131,7 +145,9 @@
   "Utrans(H)": 31,
   "TC": "Act 1 Super B",
   "TC(N)": "Act 1 (N) Super B",
-  "TC(H)": "Act 1 (H) Super B"
+  "TC(H)": "Act 1 (H) Super B",
+  "lineNumber": 7,
+  "areaId": 30
  },
  "8": {
   "Superunique": "Flamespike the Crawler",
@@ -148,7 +164,8 @@
   "Utrans(H)": 16,
   "TC": "Act 1 Unique C",
   "TC(N)": "Act 1 (N) Unique C",
-  "TC(H)": "Act 1 (H) Unique C"
+  "TC(H)": "Act 1 (H) Unique C",
+  "lineNumber": 8
  },
  "9": {
   "Superunique": "Boneash",
@@ -164,7 +181,9 @@
   "Utrans(H)": 15,
   "TC": "Act 1 Super C",
   "TC(N)": "Act 1 (N) Super C",
-  "TC(H)": "Act 1 (H) Super C"
+  "TC(H)": "Act 1 (H) Super C",
+  "lineNumber": 9,
+  "areaId": 33
  },
  "10": {
   "Superunique": "Radament",
@@ -180,7 +199,9 @@
   "Utrans(H)": 30,
   "TC": "Radament",
   "TC(N)": "Radament (N)",
-  "TC(H)": "Radament (H)"
+  "TC(H)": "Radament (H)",
+  "lineNumber": 10,
+  "areaId": 49
  },
  "11": {
   "Superunique": "Bloodwitch the Wild",
@@ -197,7 +218,9 @@
   "Utrans(H)": 29,
   "TC": "Act 2 Super A",
   "TC(N)": "Act 2 (N) Super A",
-  "TC(H)": "Act 2 (H) Super A"
+  "TC(H)": "Act 2 (H) Super A",
+  "lineNumber": 11,
+  "areaId": 60
  },
  "12": {
   "Superunique": "Fangskin",
@@ -214,7 +237,9 @@
   "Utrans(H)": 14,
   "TC": "Act 2 Super B",
   "TC(N)": "Act 2 (N) Super B",
-  "TC(H)": "Act 2 (H) Super B"
+  "TC(H)": "Act 2 (H) Super B",
+  "lineNumber": 12,
+  "areaId": 61
  },
  "13": {
   "Superunique": "Beetleburst",
@@ -231,7 +256,9 @@
   "Utrans(H)": 13,
   "TC": "Act 2 Super B",
   "TC(N)": "Act 2 (N) Super B",
-  "TC(H)": "Act 2 (H) Super B"
+  "TC(H)": "Act 2 (H) Super B",
+  "lineNumber": 13,
+  "areaId": 43
  },
  "14": {
   "Superunique": "Leatherarm",
@@ -248,7 +275,9 @@
   "Utrans(H)": 25,
   "TC": "Act 2 Super A",
   "TC(N)": "Act 2 (N) Super A",
-  "TC(H)": "Act 2 (H) Super A"
+  "TC(H)": "Act 2 (H) Super A",
+  "lineNumber": 14,
+  "areaId": 59
  },
  "15": {
   "Superunique": "Coldworm the Burrower",
@@ -262,7 +291,9 @@
   "Utrans(H)": 13,
   "TC": "Act 2 Super B",
   "TC(N)": "Act 2 (N) Super B",
-  "TC(H)": "Act 2 (H) Super B"
+  "TC(H)": "Act 2 (H) Super B",
+  "lineNumber": 15,
+  "areaId": 64
  },
  "16": {
   "Superunique": "Fire Eye",
@@ -279,7 +310,9 @@
   "Utrans(H)": 12,
   "TC": "Act 2 Super B",
   "TC(N)": "Act 2 (N) Super B",
-  "TC(H)": "Act 2 (H) Super B"
+  "TC(H)": "Act 2 (H) Super B",
+  "lineNumber": 16,
+  "areaId": 54
  },
  "17": {
   "Superunique": "Dark Elder",
@@ -297,7 +330,9 @@
   "Utrans(H)": 27,
   "TC": "Act 2 Super B",
   "TC(N)": "Act 2 (N) Super B",
-  "TC(H)": "Act 2 (H) Super B"
+  "TC(H)": "Act 2 (H) Super B",
+  "lineNumber": 17,
+  "areaId": 44
  },
  "18": {
   "Superunique": "The Summoner",
@@ -312,7 +347,9 @@
   "Utrans(H)": 26,
   "TC": "Summoner",
   "TC(N)": "Summoner (N)",
-  "TC(H)": "Summoner (H)"
+  "TC(H)": "Summoner (H)",
+  "lineNumber": 18,
+  "areaId": 74
  },
  "19": {
   "Superunique": "Ancient Kaa the Soulless",
@@ -330,7 +367,8 @@
   "Utrans(H)": 11,
   "TC": "Act 2 Super C",
   "TC(N)": "Act 2 (N) Super C",
-  "TC(H)": "Act 2 (H) Super C"
+  "TC(H)": "Act 2 (H) Super C",
+  "lineNumber": 19
  },
  "20": {
   "Superunique": "The Smith",
@@ -345,7 +383,9 @@
   "Utrans(H)": 26,
   "TC": "Smith",
   "TC(N)": "Smith (N)",
-  "TC(H)": "Smith (H)"
+  "TC(H)": "Smith (H)",
+  "lineNumber": 20,
+  "areaId": 28
  },
  "21": {
   "Superunique": "Web Mage the Burning",
@@ -362,7 +402,9 @@
   "Utrans(H)": 19,
   "TC": "Act 3 Super A",
   "TC(N)": "Act 3 (N) Super A",
-  "TC(H)": "Act 3 (H) Super A"
+  "TC(H)": "Act 3 (H) Super A",
+  "lineNumber": 21,
+  "areaId": 85
  },
  "22": {
   "Superunique": "Witch Doctor Endugu",
@@ -379,7 +421,9 @@
   "Utrans(H)": 20,
   "TC": "Act 3 Super B",
   "TC(N)": "Act 3 (N) Super B",
-  "TC(H)": "Act 3 (H) Super B"
+  "TC(H)": "Act 3 (H) Super B",
+  "lineNumber": 22,
+  "areaId": 91
  },
  "23": {
   "Superunique": "Stormtree",
@@ -397,7 +441,9 @@
   "Utrans(H)": 35,
   "TC": "Act 3 Super B",
   "TC(N)": "Act 3 (N) Super B",
-  "TC(H)": "Act 3 (H) Super B"
+  "TC(H)": "Act 3 (H) Super B",
+  "lineNumber": 23,
+  "areaId": 78
  },
  "24": {
   "Superunique": "Sarina the Battlemaid",
@@ -415,7 +461,9 @@
   "Utrans(H)": 36,
   "TC": "Act 3 Super B",
   "TC(N)": "Act 3 (N) Super B",
-  "TC(H)": "Act 3 (H) Super B"
+  "TC(H)": "Act 3 (H) Super B",
+  "lineNumber": 24,
+  "areaId": 94
  },
  "25": {
   "Superunique": "Icehawk Riftwing",
@@ -432,7 +480,9 @@
   "Utrans(H)": 21,
   "TC": "Act 3 Super A",
   "TC(N)": "Act 3 (N) Super A",
-  "TC(H)": "Act 3 (H) Super A"
+  "TC(H)": "Act 3 (H) Super A",
+  "lineNumber": 25,
+  "areaId": 92
  },
  "26": {
   "Superunique": "Ismail Vilehand",
@@ -449,7 +499,9 @@
   "Utrans(H)": 36,
   "TC": "Council",
   "TC(N)": "Council (N)",
-  "TC(H)": "Council (H)"
+  "TC(H)": "Council (H)",
+  "lineNumber": 26,
+  "areaId": 83
  },
  "27": {
   "Superunique": "Geleb Flamefinger",
@@ -466,7 +518,9 @@
   "Utrans(H)": 37,
   "TC": "Council",
   "TC(N)": "Council (N)",
-  "TC(H)": "Council (H)"
+  "TC(H)": "Council (H)",
+  "lineNumber": 27,
+  "areaId": 83
  },
  "28": {
   "Superunique": "Bremm Sparkfist",
@@ -483,7 +537,9 @@
   "Utrans(H)": 22,
   "TC": "Council",
   "TC(N)": "Council (N)",
-  "TC(H)": "Council (H)"
+  "TC(H)": "Council (H)",
+  "lineNumber": 28,
+  "areaId": 102
  },
  "29": {
   "Superunique": "Toorc Icefist",
@@ -498,7 +554,9 @@
   "Utrans(H)": 23,
   "TC": "Council",
   "TC(N)": "Council (N)",
-  "TC(H)": "Council (H)"
+  "TC(H)": "Council (H)",
+  "lineNumber": 29,
+  "areaId": 83
  },
  "30": {
   "Superunique": "Wyand Voidfinger",
@@ -513,7 +571,9 @@
   "Utrans(H)": 38,
   "TC": "Council",
   "TC(N)": "Council (N)",
-  "TC(H)": "Council (H)"
+  "TC(H)": "Council (H)",
+  "lineNumber": 30,
+  "areaId": 102
  },
  "31": {
   "Superunique": "Maffer Dragonhand",
@@ -528,7 +588,9 @@
   "Utrans(H)": 23,
   "TC": "Council",
   "TC(N)": "Council (N)",
-  "TC(H)": "Council (H)"
+  "TC(H)": "Council (H)",
+  "lineNumber": 31,
+  "areaId": 102
  },
  "32": {
   "Superunique": "Winged Death",
@@ -545,7 +607,8 @@
   "Utrans(H)": 24,
   "TC": "Act 4 Super A",
   "TC(N)": "Act 4 (N) Super A",
-  "TC(H)": "Act 4 (H) Super A"
+  "TC(H)": "Act 4 (H) Super A",
+  "lineNumber": 32
  },
  "33": {
   "Superunique": "The Tormentor",
@@ -562,7 +625,8 @@
   "Utrans(H)": 9,
   "TC": "Act 4 Super A",
   "TC(N)": "Act 4 (N) Super A",
-  "TC(H)": "Act 4 (H) Super A"
+  "TC(H)": "Act 4 (H) Super A",
+  "lineNumber": 33
  },
  "34": {
   "Superunique": "Taintbreeder",
@@ -578,7 +642,8 @@
   "Utrans(H)": 10,
   "TC": "Act 4 Super A",
   "TC(N)": "Act 4 (N) Super A",
-  "TC(H)": "Act 4 (H) Super A"
+  "TC(H)": "Act 4 (H) Super A",
+  "lineNumber": 34
  },
  "35": {
   "Superunique": "Riftwraith the Cannibal",
@@ -595,7 +660,8 @@
   "Utrans(H)": 25,
   "TC": "Act 4 Super A",
   "TC(N)": "Act 4 (N) Super A",
-  "TC(H)": "Act 4 (H) Super A"
+  "TC(H)": "Act 4 (H) Super A",
+  "lineNumber": 35
  },
  "36": {
   "Superunique": "Infector of Souls",
@@ -612,7 +678,9 @@
   "Utrans(H)": 26,
   "TC": "Act 4 Super B",
   "TC(N)": "Act 4 (N) Super B",
-  "TC(H)": "Act 4 (H) Super B"
+  "TC(H)": "Act 4 (H) Super B",
+  "lineNumber": 36,
+  "areaId": 108
  },
  "37": {
   "Superunique": "Lord De Seis",
@@ -630,7 +698,9 @@
   "Utrans(H)": 11,
   "TC": "Act 4 Super C",
   "TC(N)": "Act 4 (N) Super C",
-  "TC(H)": "Act 4 (H) Super C"
+  "TC(H)": "Act 4 (H) Super C",
+  "lineNumber": 37,
+  "areaId": 108
  },
  "38": {
   "Superunique": "Grand Vizier of Chaos",
@@ -647,7 +717,9 @@
   "Utrans(H)": 26,
   "TC": "Act 4 Super B",
   "TC(N)": "Act 4 (N) Super B",
-  "TC(H)": "Act 4 (H) Super B"
+  "TC(H)": "Act 4 (H) Super B",
+  "lineNumber": 38,
+  "areaId": 108
  },
  "39": {
   "Superunique": "The Cow King",
@@ -664,7 +736,9 @@
   "Utrans(H)": 27,
   "TC": "Cow King",
   "TC(N)": "Cow King (N)",
-  "TC(H)": "Cow King (H)"
+  "TC(H)": "Cow King (H)",
+  "lineNumber": 39,
+  "areaId": 39
  },
  "40": {
   "Superunique": "Corpsefire",
@@ -680,7 +754,9 @@
   "Utrans(H)": 25,
   "TC": "Act 1 Super A",
   "TC(N)": "Act 1 (N) Super A",
-  "TC(H)": "Act 1 (H) Super A"
+  "TC(H)": "Act 1 (H) Super A",
+  "lineNumber": 40,
+  "areaId": 8
  },
  "41": {
   "Superunique": "The Feature Creep",
@@ -696,7 +772,9 @@
   "Utrans(H)": 20,
   "TC": "Haphesto",
   "TC(N)": "Haphesto (N)",
-  "TC(H)": "Haphesto (H)"
+  "TC(H)": "Haphesto (H)",
+  "lineNumber": 41,
+  "areaId": 107
  },
  "42": {
   "Superunique": "Siege Boss",
@@ -711,7 +789,10 @@
   "Utrans(H)": 7,
   "TC": "Act 5 Super A",
   "TC(N)": "Act 5 (N) Super A",
-  "TC(H)": "Act 5 (H) Super A"
+  "TC(H)": "Act 5 (H) Super A",
+  "expansion": 1,
+  "lineNumber": 43,
+  "areaId": 110
  },
  "43": {
   "Superunique": "Ancient Barbarian 1",
@@ -722,7 +803,10 @@
   "Stacks": 1,
   "Utrans": 25,
   "Utrans(N)": 25,
-  "Utrans(H)": 25
+  "Utrans(H)": 25,
+  "expansion": 1,
+  "lineNumber": 44,
+  "areaId": 120
  },
  "44": {
   "Superunique": "Ancient Barbarian 2",
@@ -733,7 +817,10 @@
   "Stacks": 1,
   "Utrans": 26,
   "Utrans(N)": 26,
-  "Utrans(H)": 26
+  "Utrans(H)": 26,
+  "expansion": 1,
+  "lineNumber": 45,
+  "areaId": 120
  },
  "45": {
   "Superunique": "Ancient Barbarian 3",
@@ -744,7 +831,10 @@
   "Stacks": 1,
   "Utrans": 11,
   "Utrans(N)": 11,
-  "Utrans(H)": 11
+  "Utrans(H)": 11,
+  "expansion": 1,
+  "lineNumber": 46,
+  "areaId": 120
  },
  "46": {
   "Superunique": "Axe Dweller",
@@ -761,7 +851,9 @@
   "Utrans(H)": 20,
   "TC": "Act 5 Super C",
   "TC(N)": "Act 5 (N) Super C",
-  "TC(H)": "Act 5 (H) Super C"
+  "TC(H)": "Act 5 (H) Super C",
+  "expansion": 1,
+  "lineNumber": 47
  },
  "47": {
   "Superunique": "Bonesaw Breaker",
@@ -778,7 +870,10 @@
   "Utrans(H)": 35,
   "TC": "Act 5 Super A",
   "TC(N)": "Act 5 (N) Super A",
-  "TC(H)": "Act 5 (H) Super A"
+  "TC(H)": "Act 5 (H) Super A",
+  "expansion": 1,
+  "lineNumber": 48,
+  "areaId": 115
  },
  "48": {
   "Superunique": "Dac Farren",
@@ -795,7 +890,10 @@
   "Utrans(H)": 36,
   "TC": "Act 5 Super B",
   "TC(N)": "Act 5 (N) Super B",
-  "TC(H)": "Act 5 (H) Super B"
+  "TC(H)": "Act 5 (H) Super B",
+  "expansion": 1,
+  "lineNumber": 49,
+  "areaId": 110
  },
  "49": {
   "Superunique": "Megaflow Rectifier",
@@ -813,7 +911,10 @@
   "Utrans(H)": 21,
   "TC": "Act 5 Super A",
   "TC(N)": "Act 5 (N) Super A",
-  "TC(H)": "Act 5 (H) Super A"
+  "TC(H)": "Act 5 (H) Super A",
+  "expansion": 1,
+  "lineNumber": 50,
+  "areaId": 111
  },
  "50": {
   "Superunique": "Eyeback Unleashed",
@@ -830,7 +931,10 @@
   "Utrans(H)": 8,
   "TC": "Act 5 Super A",
   "TC(N)": "Act 5 (N) Super A",
-  "TC(H)": "Act 5 (H) Super A"
+  "TC(H)": "Act 5 (H) Super A",
+  "expansion": 1,
+  "lineNumber": 51,
+  "areaId": 111
  },
  "51": {
   "Superunique": "Threash Socket",
@@ -844,7 +948,10 @@
   "Utrans(H)": 37,
   "TC": "Act 5 Super Cx",
   "TC(N)": "Act 5 (N) Super Cx",
-  "TC(H)": "Act 5 (H) Super Cx"
+  "TC(H)": "Act 5 (H) Super Cx",
+  "expansion": 1,
+  "lineNumber": 52,
+  "areaId": 112
  },
  "52": {
   "Superunique": "Pindleskin",
@@ -860,7 +967,10 @@
   "Utrans(H)": 22,
   "TC": "Act 5 Super Cx",
   "TC(N)": "Act 5 (N) Super Cx",
-  "TC(H)": "Act 5 (H) Super Cx"
+  "TC(H)": "Act 5 (H) Super Cx",
+  "expansion": 1,
+  "lineNumber": 53,
+  "areaId": 121
  },
  "53": {
   "Superunique": "Snapchip Shatter",
@@ -877,7 +987,10 @@
   "Utrans(H)": 23,
   "TC": "Act 5 Super C",
   "TC(N)": "Act 5 (N) Super C",
-  "TC(H)": "Act 5 (H) Super C"
+  "TC(H)": "Act 5 (H) Super C",
+  "expansion": 1,
+  "lineNumber": 54,
+  "areaId": 119
  },
  "54": {
   "Superunique": "Anodized Elite",
@@ -894,7 +1007,9 @@
   "Utrans(H)": 38,
   "TC": "Act 5 Super C",
   "TC(N)": "Act 5 (N) Super C",
-  "TC(H)": "Act 5 (H) Super C"
+  "TC(H)": "Act 5 (H) Super C",
+  "expansion": 1,
+  "lineNumber": 55
  },
  "55": {
   "Superunique": "Vinvear Molech",
@@ -910,7 +1025,9 @@
   "Utrans(H)": 23,
   "TC": "Act 5 Super A",
   "TC(N)": "Act 5 (N) Super A",
-  "TC(H)": "Act 5 (H) Super A"
+  "TC(H)": "Act 5 (H) Super A",
+  "expansion": 1,
+  "lineNumber": 56
  },
  "56": {
   "Superunique": "Sharp Tooth Sayer",
@@ -927,7 +1044,10 @@
   "Utrans(H)": 24,
   "TC": "Act 5 Super B",
   "TC(N)": "Act 5 (N) Super B",
-  "TC(H)": "Act 5 (H) Super B"
+  "TC(H)": "Act 5 (H) Super B",
+  "expansion": 1,
+  "lineNumber": 57,
+  "areaId": 111
  },
  "57": {
   "Superunique": "Magma Torquer",
@@ -944,7 +1064,9 @@
   "Utrans(H)": 9,
   "TC": "Act 5 Super C",
   "TC(N)": "Act 5 (N) Super C",
-  "TC(H)": "Act 5 (H) Super C"
+  "TC(H)": "Act 5 (H) Super C",
+  "expansion": 1,
+  "lineNumber": 58
  },
  "58": {
   "Superunique": "Blaze Ripper",
@@ -961,7 +1083,9 @@
   "Utrans(H)": 10,
   "TC": "Act 5 Super C",
   "TC(N)": "Act 5 (N) Super C",
-  "TC(H)": "Act 5 (H) Super C"
+  "TC(H)": "Act 5 (H) Super C",
+  "expansion": 1,
+  "lineNumber": 59
  },
  "59": {
   "Superunique": "Frozenstein",
@@ -978,7 +1102,10 @@
   "Utrans(H)": 19,
   "TC": "Act 5 Super C",
   "TC(N)": "Act 5 (N) Super C",
-  "TC(H)": "Act 5 (H) Super C"
+  "TC(H)": "Act 5 (H) Super C",
+  "expansion": 1,
+  "lineNumber": 60,
+  "areaId": 114
  },
  "60": {
   "Superunique": "Nihlathak Boss",
@@ -992,7 +1119,10 @@
   "Utrans(H)": 28,
   "TC": "Nihlathak",
   "TC(N)": "Nihlathak (N)",
-  "TC(H)": "Nihlathak (H)"
+  "TC(H)": "Nihlathak (H)",
+  "expansion": 1,
+  "lineNumber": 61,
+  "areaId": 124
  },
  "61": {
   "Superunique": "Baal Subject 1",
@@ -1008,7 +1138,10 @@
   "Utrans(H)": 29,
   "TC": "Act 5 Champ C",
   "TC(N)": "Act 5 (N) Champ C",
-  "TC(H)": "Act 5 (H) Champ C"
+  "TC(H)": "Act 5 (H) Champ C",
+  "expansion": 1,
+  "lineNumber": 62,
+  "areaId": 131
  },
  "62": {
   "Superunique": "Baal Subject 2",
@@ -1024,7 +1157,10 @@
   "Utrans(H)": 21,
   "TC": "Act 5 Champ C",
   "TC(N)": "Act 5 (N) Champ C",
-  "TC(H)": "Act 5 (H) Champ C"
+  "TC(H)": "Act 5 (H) Champ C",
+  "expansion": 1,
+  "lineNumber": 63,
+  "areaId": 131
  },
  "63": {
   "Superunique": "Baal Subject 3",
@@ -1041,7 +1177,10 @@
   "Utrans(H)": 36,
   "TC": "Act 5 Champ C",
   "TC(N)": "Act 5 (N) Champ C",
-  "TC(H)": "Act 5 (H) Champ C"
+  "TC(H)": "Act 5 (H) Champ C",
+  "expansion": 1,
+  "lineNumber": 64,
+  "areaId": 131
  },
  "64": {
   "Superunique": "Baal Subject 4",
@@ -1058,7 +1197,10 @@
   "Utrans(H)": 20,
   "TC": "Act 5 Champ C",
   "TC(N)": "Act 5 (N) Champ C",
-  "TC(H)": "Act 5 (H) Champ C"
+  "TC(H)": "Act 5 (H) Champ C",
+  "expansion": 1,
+  "lineNumber": 65,
+  "areaId": 131
  },
  "65": {
   "Superunique": "Baal Subject 5",
@@ -1075,6 +1217,9 @@
   "Utrans(H)": 20,
   "TC": "Act 5 Champ C",
   "TC(N)": "Act 5 (N) Champ C",
-  "TC(H)": "Act 5 (H) Champ C"
+  "TC(H)": "Act 5 (H) Champ C",
+  "expansion": 1,
+  "lineNumber": 66,
+  "areaId": 131
  }
 }
